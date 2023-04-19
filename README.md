@@ -1,2 +1,3 @@
 # moomoo-macro
-i create script for get benefits in moomoo game
+To use the script u need to install the tampermonkey extention :
+- [Tampermonkey Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
