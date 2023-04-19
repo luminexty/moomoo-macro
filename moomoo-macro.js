@@ -36,19 +36,6 @@
             }
             this.oldSender(m);
         };
-    let myPlayer = {
-    id: null,
-    x: null,
-    y: null,
-    dir: null,
-    object: null,
-    weapon: null,
-    clan: null,
-    isLeader: null,
-    hat: null,
-    accessory: null,
-    isSkull: null
-};
     function isElementVisible(e) {
     return (e.offsetParent !== null);
 }
